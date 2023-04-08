@@ -1,0 +1,15 @@
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/home/hamisi/Documents/TrueCoders/repos/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
